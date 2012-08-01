@@ -1,8 +1,8 @@
 package containers;
 //: containers/IndividualTest.java
-import holding.MapOfList;
 import java.util.*;
 
+import chapter11_holding.MapOfList;
 import chapter14_typeinfo.pets.*;
 
 public class IndividualTest {
